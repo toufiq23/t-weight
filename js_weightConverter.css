@@ -1,0 +1,14 @@
+body{
+  margin-top: 70px;
+  background-image: radial-gradient(circle, #833ab4 50%,  #fcb045 30%);
+  color: #fff;
+}
+
+.created {
+	margin-top: 200px;
+	text-align: center;
+}
+
+h2 {
+	color: red;
+}
